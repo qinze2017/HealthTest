@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthTester</string>
+    <string name="serverurl">http://192.168.2.13:8080/apacheServletApp/ReleaseApp</string>
+    <string name="btn_start">BtnStart</string>
+    <string name="btn_stop">BtnStop</string>
+    <string name="action_settings">Settings</string>
+</resources>
